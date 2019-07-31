@@ -1,6 +1,6 @@
   IDENTIFICATION DIVISION.
         PROGRAM-ID.     VINTE-E-UM.
-        AUTHOR.         Marshallowitz.
+        AUTHOR.         MARSHALLOWITZ.
         DATA DIVISION.
         WORKING-STORAGE SECTION.
         01  PLAYER-TOTAL            PIC 9(2)    VALUE 0.
